@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lidia Zawrzykraj
 
-<!--
-**ZawrzykrajLidia/ZawrzykrajLidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Student @ Gdańsk University of Technology | Specializing in Databases**.
 
-Here are some ideas to get you started:
+I am passionate about data warehousing, Business Intelligence, and building clean data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack
+* **Databases:**  Relational Databases, NoSQL, Data Warehouses
+* **Languages:**  SQL, Java, Python , C++
+* **Data & BI:** Business Intelligence, OLAP processing, Data Modeling (ERD, Normalization), ACID principles
+* **Architecture & Backend:** Microservices, Docker, Spring Framework
+* **Software Engineering:** UML, CASE tools.
+
+### Let's Connect
+* **LinkedIn:** [https://www.linkedin.com/in/lidia-zawrzykraj/]
+* **Email:** [lidia.zawrzykraj@gmail.com]
